@@ -1,13 +1,13 @@
 {
   "main.css": "/web-ropa/static/css/main.388e4c8e.chunk.css",
-  "main.js": "/web-ropa/static/js/main.12596045.chunk.js",
-  "main.js.map": "/web-ropa/static/js/main.12596045.chunk.js.map",
+  "main.js": "/web-ropa/static/js/main.b49a84ae.chunk.js",
+  "main.js.map": "/web-ropa/static/js/main.b49a84ae.chunk.js.map",
   "static/js/1.b3e73632.chunk.js": "/web-ropa/static/js/1.b3e73632.chunk.js",
   "static/js/1.b3e73632.chunk.js.map": "/web-ropa/static/js/1.b3e73632.chunk.js.map",
   "runtime~main.js": "/web-ropa/static/js/runtime~main.9bf1f4f6.js",
   "runtime~main.js.map": "/web-ropa/static/js/runtime~main.9bf1f4f6.js.map",
   "static/css/main.388e4c8e.chunk.css.map": "/web-ropa/static/css/main.388e4c8e.chunk.css.map",
   "index.html": "/web-ropa/index.html",
-  "precache-manifest.699f440cfc466eea8d039aa4a272a5b9.js": "/web-ropa/precache-manifest.699f440cfc466eea8d039aa4a272a5b9.js",
+  "precache-manifest.667bfd19040b03d6ccdb35090e10fcc7.js": "/web-ropa/precache-manifest.667bfd19040b03d6ccdb35090e10fcc7.js",
   "service-worker.js": "/web-ropa/service-worker.js"
 }
